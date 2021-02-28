@@ -13,26 +13,27 @@ Safe Trip Analysis - Ensemble classification on UK Accident Database
 # Data cleanup and feature extraction  
 
 Classification algorithms:
-Logistic Regression
 
-Logistic Regression with 10-fold CV
+1) Logistic Regression
 
-Random Forests with 10-Fold
+2) Logistic Regression with 10-fold CV
 
-Polynomial Kernel SVM
+3) Random Forests with 10-Fold
 
-LinearSVC
+4) Polynomial Kernel SVM
 
-Decision Tree Classifier
+5) LinearSVC
 
-SGD Classifier
+6) Decision Tree Classifier
 
-OneVsRestClassifier SVC model
+7) SGD Classifier
 
-KNeighborsClassifier & GridSearchCV
+8) OneVsRestClassifier SVC model
 
-XGBoost
+9) KNeighborsClassifier & GridSearchCV
 
-AdaBoost
+10) XGBoost
+
+11) AdaBoost
 
 ![image](https://user-images.githubusercontent.com/5762548/109412585-a9a4c780-795d-11eb-9f78-5711d5e4aa5e.png)
